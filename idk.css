@@ -1,0 +1,17 @@
+p,h1,h2,h3,h4,h5 {
+	color: orange ;
+}
+
+p, {
+	color:gray;
+}
+
+.test {
+	background-image: url("https://i.ytimg.com/vi/ws_tBduqX7I/maxresdefault.jpg");
+	height: 900px;
+	width: 2000px;
+	widows: 700px;
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
